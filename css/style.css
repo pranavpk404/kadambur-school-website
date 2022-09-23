@@ -4,6 +4,7 @@
   margin: 0;
   font-family: Poppins, sans-serif;
   transition: all 0.5s;
+  font-weight: 300;
 }
 .center {
   display: flex;
@@ -58,7 +59,8 @@
 /* CAROUSAL */
 #primary-title {
   font-size: 2.5rem;
-  text-shadow: 4px 4px white;
+  font-weight: 900;
+  text-shadow: -1px -1px 20px rgb(255 255 255 / 20%);
   text-align: center;
 }
 
