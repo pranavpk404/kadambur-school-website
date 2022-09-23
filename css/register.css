@@ -1,0 +1,47 @@
+#form-holder {
+  max-width: 300px;
+  margin: auto;
+  padding: 10px 20px;
+}
+
+.input {
+  border: none;
+  font-size: 16px;
+  outline: 0;
+  padding: 15px;
+  width: 100%;
+  background-color: #e8eeef;
+
+  margin-bottom: 30px;
+}
+#register-title {
+  margin-top: 4rem;
+}
+.btn {
+  padding: 20px;
+  color: #fff;
+  background-color: #454c47;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid #454c47;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: #1b1e1c;
+}
+fieldset {
+  margin-bottom: 30px;
+  border: none;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 480px) {
+  #form-holder {
+    max-width: 480px;
+  }
+}

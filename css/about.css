@@ -1,0 +1,14 @@
+.about-container {
+  display: flex;
+  padding: 5rem;
+  align-items: flex-start;
+}
+
+#video {
+  margin-right: 12px;
+}
+#history {
+  font-size: 15px;
+  white-space: break-spaces;
+  color: hsl(0, 0%, 40%);
+}
