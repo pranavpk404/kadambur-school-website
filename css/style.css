@@ -59,7 +59,8 @@
 #primary-title {
   font-size: 2.5rem;
   font-weight: 900;
-  text-shadow: -1px -1px 20px rgb(255 255 255 / 20%);
+  color: #ffffff;
+  text-shadow: -1px -1px 20px #75f7f7;
   text-align: center;
 }
 
